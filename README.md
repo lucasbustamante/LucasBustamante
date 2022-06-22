@@ -43,3 +43,5 @@
 <img href="https://raw.githubusercontent.com/LucasBustamante/LucasBustamante/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+
+ ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
