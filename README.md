@@ -40,8 +40,8 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/LucasBustamante/LucasBustamante/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/LucasBustamante/LucasBustamante/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
- ![Snake animation](https://github.com/LucasBustamante/LucasBustamante/blob/output/github-contribution-grid-snake.svg)
+ 
