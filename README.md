@@ -1,4 +1,5 @@
-<h1 align="left">Hello Word!!<h1>
+<h1 align="left">Hello Word!!</h1>
+
 <h5 align="left">Oi, meu nome é Lucas.<br>Sempre fui muito fanático por tecnologia, desmontava meus carrinhos, eletrónicos de casa, sempre em busca de aprendizado.<br>Com o tempo aprendi a concertar eletrónicos, eletrodomésticos e a criar meus pequenos códigos de programação, mas nunca me dediquei profissionalmente nesta área.<Mas em 2020 resolvi virar a chave, ingressei na faculdade, fazendo diversos curso e focando em me profissionalizar como desenvolvedor mobile.<br>No momento sigo procurando um vaga de emprego e uma chance de testar meus conhecimentos e potencial</h5>
 
 ###
@@ -11,10 +12,8 @@
 
 ###
 
-
-
-###
-
+ <h3 align="left">Linguagens e Frameworks</h3>
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" width="47" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" width="47" alt="dart logo"  />
@@ -26,9 +25,9 @@
   
   <div align="left">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="47" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" width="47" alt="xd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" width="47" alt="photoshop logo"  />
 </div>
 
 ###
