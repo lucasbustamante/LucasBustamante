@@ -1,5 +1,14 @@
 <h1 align="left">Hello Word!!</h1>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LucasBustamante" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LucasBustamante" height="175" alt="languages graph"  />
+</div>
+
+###
+
 <h5 align="left">Oi, meu nome é Lucas.<br>Sempre fui muito fanático por tecnologia, desmontava meus carrinhos, eletrónicos de casa, sempre em busca de aprendizado.<br>Com o tempo aprendi a concertar eletrónicos, eletrodomésticos e a criar meus pequenos códigos de programação, mas nunca me dediquei profissionalmente nesta área.<Mas em 2020 resolvi virar a chave, ingressei na faculdade, fazendo diversos curso e focando em me profissionalizar como desenvolvedor mobile.<br>No momento sigo procurando um vaga de emprego e uma chance de testar meus conhecimentos e potencial</h5>
 
 ###
@@ -31,13 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="47" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" width="47" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" width="47" alt="photoshop logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LucasBustamante" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LucasBustamante" height="150" alt="languages graph"  />
 </div>
 
 ###
