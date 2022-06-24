@@ -1,11 +1,10 @@
-<h1 align="left">Hello Word!!</h1>
+<h1 align="left">Hello Word!! </h1>
+
+
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LucasBustamante" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LucasBustamante" height="175" alt="languages graph"  />
-</div>
 
 ###
 
@@ -17,7 +16,7 @@
 
 ###
 
- <h3 align="left">Linguagens e Frameworks</h3>
+ <h3 align="left">Languages and Tools</h3>
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" width="47" alt="flutter logo"  />
@@ -26,17 +25,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="47" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
-</div>
-  
-  ###
-  
-  <h3 align="left">Outras habilidades</h3>
-  <div align="left">
-  
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="47" height="47"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="47"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="47" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" width="47" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" width="47" alt="photoshop logo"  />
 </div>
+  
+  ###
+  
+
 
 ###
 
@@ -44,7 +42,16 @@
 
 ###
 
-![Snake animation](https://github.com/LucasBustamante/LucasBustamante/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center"> My Github Stats </h1>
+  
+  <p align="center"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasBustamante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBustamante&layout=compact&langs_count=7&theme=dark"/>
+  </p>
+  <br/>
+
+<a href="https://github.com/LucasBustamante/github-profile-views-counter">
+    <p align="right"><img src="https://komarev.com/ghpvc/?username=LucasBustamante&style=for-the-badge">
+</a>
 
 ###
 
