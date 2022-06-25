@@ -1,14 +1,11 @@
 <h1 align="left">Hello Word!! </h1>
 
-
-
-
-###
-
+<h6 align="center"> Olá, tenho 27 anos e atualmente estou cursando análise e desenvolvimento de sistemas, além de fazer vários cursos sobre Dart e Flutter. <br>Em 2021 virei a chave da minha vida e decidi iniciar minha carreira como dev, hoje estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha vida profissional, além de poder ter a chance de mostrar minhas habilidades e conhecimentos.</h6> 
 
 ###
 
-<div align="left">
+<h3 align="right">Contacts </h3>
+<div align="right">
   
    <a href="https://www.instagram.com/lucasbustamante_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href = "mailto:lucascostabustamante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,9 +13,11 @@
 
 ###
 
- <h3 align="left">Languages and Tools</h3>
+  <h2 align="center"> Languages and Tools </h2>
+ 
   
-<div align="left">
+  
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" width="47" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" width="47" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="47" alt="python logo"  />
