@@ -1,4 +1,4 @@
-<h1 align="left">Hello Word!! </h1>
+<h1 align="left">Hello World!! </h1>
 
 <h6 align="center"> Olá, tenho 28 anos e atualmente estou cursando análise e desenvolvimento de sistemas, além de fazer vários cursos sobre Dart e Flutter. <br>Em 2021 virei a chave da minha vida e decidi iniciar minha carreira como dev, hoje estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha vida profissional, além de poder ter a chance de mostrar minhas habilidades e conhecimentos.</h6> 
 
