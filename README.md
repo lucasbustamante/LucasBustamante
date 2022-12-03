@@ -1,7 +1,7 @@
 <h1 align="left">Hello World!! </h1>
 
 <h6 align="center"> Olá, tenho 28 anos e atualmente estou cursando análise e desenvolvimento de sistemas, quero me profissionalizar como desenvolvedor mobile. Hoje meu maior foco é o Flutter e Dart.
-Entre 2019 para 2020 decidi iniciar minha carreira como dev, e hoje estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha vida profissional, além de poder ter a chance de mostrar minhas habilidades e conhecimentos</h6> 
+Entre 2019 para 2020 decidi iniciar minha carreira como dev, e hoje estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha vida profissional, além de poder ter a chance de mostrar minhas habilidades e conhecimentos.</h6> 
 
 ###
 
