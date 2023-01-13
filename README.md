@@ -13,7 +13,9 @@ Entre 2019 para 2020 decidi iniciar minha carreira como dev, e hoje estou aberto
  	 
    
   <a href="https://www.linkedin.com/in/lucas-bustamante-b9612476" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lucascostabustamante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucascostabustamante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://instagram.com/lucasbustamante_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </a>
 
 ###
 
@@ -64,3 +66,4 @@ Entre 2019 para 2020 decidi iniciar minha carreira como dev, e hoje estou aberto
 
 ###
  
+
