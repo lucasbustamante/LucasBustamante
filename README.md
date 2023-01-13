@@ -51,11 +51,11 @@ Entre 2019 para 2020 decidi iniciar minha carreira como dev, e hoje estou aberto
 
 
   <h1 align="center">
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasbustamante&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasbustamante&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" />
   
  
  
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasbustamante&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasbustamante&show_icons=true&count_private=true" />
   </p>
   <br/>
 
