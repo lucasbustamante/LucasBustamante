@@ -1,7 +1,12 @@
 <h1 align="left">Hello World!! </h1>
 
-<h6 align="center"> Olá, tenho 28 anos e atualmente estou cursando análise e desenvolvimento de sistemas, quero me profissionalizar como desenvolvedor mobile. Hoje meu maior foco é o Flutter e Dart.
-Entre 2019 para 2020 decidi iniciar minha carreira como dev, e hoje estou aberto a qualquer tipo de oportunidade que possa agregar algo à minha vida profissional, além de poder ter a chance de mostrar minhas habilidades e conhecimentos.</h6> 
+<h6 align="center"> Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho formação em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como freelancer, oferecendo soluções inovadoras e eficientes para os projetos em que atuo.
+
+Como desenvolvedor mobile, meu objetivo é sempre aprimorar minhas habilidades e ampliar meus conhecimentos, contribuindo para o sucesso da empresa em que trabalho e para o mercado de tecnologia como um todo.
+
+Aqui no meu GitHub você pode encontrar alguns dos meus projetos pessoais e ver algumas das tecnologias que já trabalhei. Sinta-se à vontade para explorar e, se quiser, deixar algum feedback ou entrar em contato comigo para mais informações.
+
+Obrigado por visitar meu perfil e espero poder colaborar com você em algum projeto futuro!"</h6> 
 
 ###
 
