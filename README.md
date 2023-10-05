@@ -1,3 +1,9 @@
+<style>
+  h1, h6 {
+    color: white;
+  }
+</style>
+
 <h1 align="left">Hello World!! </h1>
 
 <h6 align="center"> Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho formação em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como freelancer, oferecendo soluções inovadoras e eficientes para os projetos em que atuo.
