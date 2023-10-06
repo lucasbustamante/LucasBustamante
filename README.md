@@ -13,21 +13,24 @@ Obrigado por visitar meu perfil e espero poder colaborar com você em algum proj
 <h2 align="center">Contacts </h2>
 <div align="center">
   
-  
-  
- 	 
-   
-  <a href="https://www.linkedin.com/in/lucas-bustamante-b9612476" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lucascostabustamante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  <a href="https://instagram.com/lucasbustamante_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-bustamante" target="_blank" style="text-decoration: none; color: #000;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+
+  <a href="mailto:lucascostabustamante@gmail.com" style="text-decoration: none; color: #000;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+
+  <a href="https://instagram.com/lucasbustamante_" target="_blank" style="text-decoration: none; color: #000;">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
+</div>
 
 ###
 
-  <h2 align="center"> Languages and Tools </h2>
- 
-  
-  
+<h2 align="center"> Languages and Tools </h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" width="47" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" width="47" alt="dart logo"  />
@@ -41,34 +44,19 @@ Obrigado por visitar meu perfil e espero poder colaborar com você em algum proj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="35" width="47" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" width="47" alt="photoshop logo"  />
 </div>
-  
-  ###
-  
-
-
-###
-
-</div>
 
 ###
 
 <h2 align="center"> My Github Stats </h2>
 
-
-  <h1 align="center">
+<h1 align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasbustamante&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" />
   
- 
- 
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasbustamante&show_icons=true&count_private=true" />
-  </p>
-  <br/>
+</h1>
+
+<br/>
 
 <a href="https://github.com/LucasBustamante/github-profile-views-counter">
     <p align="right"><img src="https://komarev.com/ghpvc/?username=LucasBustamante&style=for-the-badge">
 </a>
-
-
-###
- 
-
