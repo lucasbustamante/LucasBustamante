@@ -1,12 +1,11 @@
 <h1 align="left">Hello World!! </h1>
 
-<h6 align="center"> Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho formação em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como freelancer, oferecendo soluções inovadoras e eficientes para os projetos em que atuo.
+<h6 align="center"> Olá! Sou um desenvolvedor apaixonado por tecnologia, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, sou membro da equipe de engenharia de TI do Itaú, onde contribuo para soluções inovadoras e eficientes. Além disso, atuo como freelancer, oferecendo meu expertise em projetos desafiadores.
 
-Como desenvolvedor mobile, meu objetivo é sempre aprimorar minhas habilidades e ampliar meus conhecimentos, contribuindo para o sucesso da empresa em que trabalho e para o mercado de tecnologia como um todo.
+Como desenvolvedor mobile, meu objetivo principal é aprimorar constantemente minhas habilidades e ampliar meu conhecimento, com o intuito de contribuir para o sucesso da empresa em que trabalho e para o mercado de tecnologia como um todo.
 
-Aqui no meu GitHub você pode encontrar alguns dos meus projetos pessoais e ver algumas das tecnologias que já trabalhei. Sinta-se à vontade para explorar e, se quiser, deixar algum feedback ou entrar em contato comigo para mais informações.
-
-Obrigado por visitar meu perfil e espero poder colaborar com você em algum projeto futuro!"</h6> 
+Recentemente trabalhei em dois projetos significativos, como o aplicativo de rastreamento veicular da Spartan Tracker e o aplicativo Tudoem1 da UsadosBR, ambos para as plataformas Android e iOS.
+</h6> 
 
 ###
 
