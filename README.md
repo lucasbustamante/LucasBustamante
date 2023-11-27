@@ -32,7 +32,8 @@ Recentemente trabalhei em dois projetos significativos, como o aplicativo de ras
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cpp,python,js,git,github,androidstudio,vscode,figma,xd,ps,sketchup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cpp,git,github,figma,xd,ps,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,vscode,androidstudio,sketchup,arduino,css,html,firebase,raspberrypi)](https://skillicons.dev)
 
 </div>
 
