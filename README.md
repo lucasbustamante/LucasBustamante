@@ -1,10 +1,14 @@
 <h1 align="left">Hello World!! </h1>
 
-<h6 align="center"> Olá! Sou um desenvolvedor apaixonado por tecnologia, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, sou membro da equipe de engenharia de TI do Itaú, onde contribuo para soluções inovadoras e eficientes. Além disso, atuo como freelancer, oferecendo meu expertise em projetos desafiadores.
+<h6 style="text-align: justify;"> Olá! Sou um engenheiro de software apaixonado por tecnologia, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, tenho o privilégio de fazer parte da equipe de engenharia de TI do Itaú Unibanco, onde contribuo para o desenvolvimento de soluções inovadoras e eficientes que impulsionam a transformação digital no setor bancário.
 
-Como desenvolvedor mobile, meu objetivo principal é aprimorar constantemente minhas habilidades e ampliar meu conhecimento, com o intuito de contribuir para o sucesso da empresa em que trabalho e para o mercado de tecnologia como um todo.
+Além da minha atuação como engenheiro de software no Itaú, também sou freelancer, oferecendo meu expertise em projetos desafiadores e diversificados.
 
-Recentemente trabalhei em dois projetos significativos, como o aplicativo de rastreamento veicular da Spartan Tracker e o aplicativo Tudoem1 da UsadosBR, ambos para as plataformas Android e iOS.
+Como desenvolvedor mobile, tenho um compromisso constante de aprimorar minhas habilidades e expandir meu conhecimento para contribuir com o sucesso da empresa em que trabalho e para o avanço do mercado de tecnologia como um todo.
+
+Tive a oportunidade de participar de projetos significativos, como o aplicativo de rastreamento veicular da [Spartan Tracker](https://spartantracker.com/pt/) (Aplicativo [Android](https://play.google.com/store/apps/details?id=com.spartantrackeruk.android&hl=pt_BR&gl=US) e [iOS](https://apps.apple.com/us/app/spartan-tracker-uk/id6447258917)) e o aplicativo Tudoem1 da [UsadosBR](https://www.usadosbr.com/) (Aplicativo [Android](https://play.google.com/store/apps/details?id=com.usadosbr.crmapp&hl=pt_BR&gl=US) e [iOS](https://apps.apple.com/br/app/crm-tudoem1/id1668674518)), disponíveis nas plataformas Android e iOS.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 </h6> 
 
 ###
