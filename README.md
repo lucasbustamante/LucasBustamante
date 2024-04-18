@@ -1,6 +1,6 @@
 <h1 align="left">Hello World!! </h1>
 
-<h6 style="text-align: justify;"> Sou um engenheiro de software apaixonado por tecnologia, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, tenho o privilégio de fazer parte da equipe de engenharia de TI do Itaú Unibanco, onde contribuo para o desenvolvimento de soluções inovadoras e eficientes que impulsionam a transformação digital no setor bancário.
+<h6 style="text-align: center;"> Sou um engenheiro de software apaixonado por tecnologia, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, tenho o privilégio de fazer parte da equipe de engenharia de TI do Itaú Unibanco, onde contribuo para o desenvolvimento de soluções inovadoras e eficientes que impulsionam a transformação digital no setor bancário.
 
 Além da minha atuação como engenheiro de software no Itaú, também sou freelancer, oferecendo meu expertise em projetos desafiadores e diversificados.
 
