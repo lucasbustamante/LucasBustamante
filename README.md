@@ -36,8 +36,8 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cpp,git,github,figma,xd,ps,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,js,vscode,androidstudio,sketchup,arduino,css,html,firebase,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,cpp,git,github,figma,xd,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,vscode,androidstudio,pycharm,visualstudio,sketchup,arduino,css,html,firebase,raspberrypi,linux)](https://skillicons.dev)
 
 </div>
 
