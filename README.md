@@ -48,9 +48,11 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 <h2 align="center"> My Github Stats </h2>
 
 <h1 align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasbustamante&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&theme=great-gatsby&langs_count=8" />
   
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasbustamante&show_icons=true&count_private=true&theme=great-gatsby" />
+ ![LucasBustamante's Stats](https://github-readme-stats.vercel.app/api?username=LucasBustamante&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+  ![LucasBustamante's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBustamante&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 </h1>
 
 <br/>
